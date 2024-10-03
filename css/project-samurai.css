@@ -161,7 +161,7 @@ body{
 /* ?  end start header  */
 /* ? Start londing Section */
 .landing{
-    background-image:url(imag/a5bfb6758a895f92b43e21e3c7ff6b2e.jpg) ;
+    background-image:url(./imag/a5bfb6758a895f92b43e21e3c7ff6b2e.jpg) ;
     background-size:cover;
     height: calc(100vh);
     
@@ -169,7 +169,7 @@ body{
 /* & it's your @media (max-width:767px) */
 @media (max-width:725px){
     .landing{
-        background-image:url(imag/9eb8114bfe881c148d9d92c5048a34a7.jpg) ;
+        background-image:url(./imag/9eb8114bfe881c148d9d92c5048a34a7.jpg) ;
         background-size:cover;
         height: calc(100vh);
         transition: 0.1 ;
@@ -232,7 +232,7 @@ body{
 }
 /* &  start it's your class image-text */
 .features .container .feat .ba1:hover{
-    background-image: url(imag/f7680695117a186ce5ee05011ef3e48c.jpg);
+    background-image: url(./imag/f7680695117a186ce5ee05011ef3e48c.jpg);
     background-size: cover;
     box-shadow: 2px 2px 10px rgb(65, 62, 62);
     color:rgb(30, 28, 28);
@@ -244,7 +244,7 @@ body{
     
 }
 .features .container .feat .ba2:hover{
-    background-image: url(imag/0ae0c765e9685350d4ff3b5e1cbc112f.jpg);
+    background-image: url(./imag/0ae0c765e9685350d4ff3b5e1cbc112f.jpg);
     background-size: cover;
     box-shadow: 2px 2px 10px rgb(65, 62, 62);
     color:rgb(30, 28, 28);
@@ -254,7 +254,7 @@ body{
     transition: all 0.5s ease;
 }
 .features .container .feat .ba3:hover{
-    background-image: url(imag/2d5767793954eb33d19d45be0fce34a3.jpg);
+    background-image: url(./imag/2d5767793954eb33d19d45be0fce34a3.jpg);
     background-size: cover;
     box-shadow: 2px 2px 10px rgb(65, 62, 62);
     color:rgb(30, 28, 28);
@@ -271,7 +271,7 @@ body{
         
     }
     .features .container .feat .ba2:hover{
-        background-image: url(imag/f7680695117a186ce5ee05011ef3e48c.jpg);
+        background-image: url(./imag/f7680695117a186ce5ee05011ef3e48c.jpg);
         background-size: cover;
         box-shadow: 2px 2px 10px rgb(65, 62, 62);
         color:rgb(30, 28, 28);
@@ -284,7 +284,7 @@ body{
 
     }
     .features .container .feat .ba2:hover{
-        background-image: url(imag/0ae0c765e9685350d4ff3b5e1cbc112f.jpg);
+        background-image: url(./imag/0ae0c765e9685350d4ff3b5e1cbc112f.jpg);
         background-size: cover;
         box-shadow: 2px 2px 10px rgb(65, 62, 62);
         color:rgb(30, 28, 28);
@@ -294,7 +294,7 @@ body{
         transition: all 0.5s ease;
     }
     .features .container .feat .ba3:hover{
-        background-image: url(imag/2d5767793954eb33d19d45be0fce34a3.jpg);
+        background-image: url(./imag/2d5767793954eb33d19d45be0fce34a3.jpg);
         background-size: cover;
         box-shadow: 2px 2px 10px rgb(65, 62, 62);
         color:rgb(30, 28, 28);
