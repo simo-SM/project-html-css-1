@@ -169,7 +169,7 @@ body{
 /* & it's your @media (max-width:767px) */
 @media (max-width:725px){
     .landing{
-        background-image:url(./imag/9eb8114bfe881c148d9d92c5048a34a7.jpg) ;
+        background-image:url(../imag/9eb8114bfe881c148d9d92c5048a34a7.jpg) ;
         background-size:cover;
         height: calc(100vh);
         transition: 0.1 ;
