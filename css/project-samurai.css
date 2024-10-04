@@ -163,7 +163,7 @@ body{
 /* ?  end start header  */
 /* ? Start londing Section */
 .landing{
-    background-image:url(./imag/a5bfb6758a895f92b43e21e3c7ff6b2e.jpg) ;
+    background-image:url(/imag/a5bfb6758a895f92b43e21e3c7ff6b2e.jpg) ;
     background-size:cover;
     height: calc(100vh);
     
