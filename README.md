@@ -1,4 +1,4 @@
-### project-html-css-1
+
 # Project HTML CSS 1
 
 A simple and responsive website built using HTML and CSS. This project is intended to demonstrate my foundational skills in web design, layout, and responsive styling.
