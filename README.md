@@ -7,17 +7,6 @@ A simple and responsive website built using HTML and CSS. This project is intend
 
 Coming soon or [host it with GitHub Pages](https://pages.github.com/).
 
-## 📂 Project Structure
-
-` project-html-css-1/
-├── index.html
-├── about.html
-├── contact.html
-├── css/
-│ └── style.css
-├── images/
-│ └── [your images here]
-└── README.md`,
 
 ##  Features
 
@@ -33,10 +22,8 @@ Coming soon or [host it with GitHub Pages](https://pages.github.com/).
 - CSS3 (with flexbox and media queries)
 
 ##  Screenshots
-![Uploading Screenshot 2025-05-31 010216.png…]()
 
-> Add screenshots of your pages here if available
-![Uploading Screenshot 2025-05-31 010310.png…]()
+![Uploading Screenshot 2025-05-31 010216.png…]()
 
 ##  Lessons Learned
 
