@@ -5,7 +5,7 @@ A simple and responsive website built using HTML and CSS. This project is intend
 
 ## 🌐 Live Demo
 
-Coming soon or [host it with GitHub Pages](https://pages.github.com/).
+Coming soon or [host it with GitHub Pages]([https://simo-sm.github.io/project-html-css-1/]).
 
 
 ##  Features
